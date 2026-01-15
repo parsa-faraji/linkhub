@@ -1,19 +1,22 @@
+<div align="center">
+
+![LinkHub](https://socialify.git.ci/parsa-faraji/linkhub/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
 # LinkHub
 
 A beautiful, customizable link-in-bio page. Self-hosted alternative to Linktree.
 
-![LinkHub Demo](https://img.shields.io/badge/Status-Live-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=github)](https://parsa-faraji.github.io/linkhub)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)](https://parsa-faraji.github.io/linkhub)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-<div align="center">
+### Themes Preview
 
-## Demo
+| Default | Dark | Ocean |
+|:-------:|:----:|:-----:|
+| Purple gradient | Cyan accents | Blue professional |
 
-| Default Theme | Dark Theme | Ocean Theme |
-|:-------------:|:----------:|:-----------:|
-| ![Default](https://via.placeholder.com/200x400/667eea/ffffff?text=Default) | ![Dark](https://via.placeholder.com/200x400/1a1a2e/00f5d4?text=Dark) | ![Ocean](https://via.placeholder.com/200x400/0077b6/ffffff?text=Ocean) |
-
-**[Live Demo](https://parsa-faraji.github.io/linkhub)** | **[View All Themes](#themes)**
+**[Try It](https://parsa-faraji.github.io/linkhub)** | **[View All Themes](#themes)**
 
 </div>
 
