@@ -1,8 +1,8 @@
 <div align="center">
 
-![LinkHub](https://socialify.git.ci/parsa-faraji/linkhub/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,29&height=200&section=header&text=LinkHub&fontSize=50&fontAlignY=35&desc=Beautiful%20Link-in-Bio%20Pages&descAlignY=55&animation=twinkling)
 
-# LinkHub
+
 
 A beautiful, customizable link-in-bio page. Self-hosted alternative to Linktree.
 
